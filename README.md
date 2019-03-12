@@ -1,2 +1,2 @@
 # api-php-mysql
-A basic php api to connect to a mysql database
+A basic php api to connect to a mariadb database
